@@ -1,5 +1,5 @@
 # BertCA
-This repo contains code for [BertGCN: Transductive Text Classification by Combining GCN and BERT](https://arxiv.org/abs/2105.05727).
+
  
 
 ## Results
